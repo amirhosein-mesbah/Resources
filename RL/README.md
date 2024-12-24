@@ -4,9 +4,10 @@
 - [ ] [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html)
 
 ## University Courses
-- [ ] CS 224R, Spring 2023, Deep Reinforcement Learning | [Prof. Chelsea Finn](https://ai.stanford.edu/~cbfinn/) | [Course Page](https://cs224r.stanford.edu/)
-- [ ] EC 700 A3, Spring 2021: Introduction to Reinforcement Learning |  [Prof. Alex Olshevsky](https://sites.bu.edu/aolshevsky/) | [Course Page](https://sites.bu.edu/aolshevsky/foundations-of-reinforcement-learning/)
-- [ ] CSC2547, Spring 2021: Introduction to Reinforcement Learning | [Prof. Amir-massoud Farahmand](https://academic.sologen.net/) | [Course Page](https://amfarahmand.github.io/IntroRL/) | [Playlist](https://www.youtube.com/playlist?list=PLCveiXxL2xNbiDq51a8iJwPRq2aO0ykrq) | [Lecture Notes](https://amfarahmand.github.io/IntroRL/lectures/LNRL.pdf)
+- [ ] CS 224R, Spring 2023, Deep Reinforcement Learning | by [Prof. Chelsea Finn](https://ai.stanford.edu/~cbfinn/) | [Course Page](https://cs224r.stanford.edu/)
+- [ ] EC 700 A3, Spring 2021: Introduction to Reinforcement Learning |  by [Prof. Alex Olshevsky](https://sites.bu.edu/aolshevsky/) | [Course Page](https://sites.bu.edu/aolshevsky/foundations-of-reinforcement-learning/)
+- [ ] CSC2547, Spring 2021: Introduction to Reinforcement Learning | by [Prof. Amir-massoud Farahmand](https://academic.sologen.net/) | [Course Page](https://amfarahmand.github.io/IntroRL/) | [Playlist](https://www.youtube.com/playlist?list=PLCveiXxL2xNbiDq51a8iJwPRq2aO0ykrq) | [Lecture Notes](https://amfarahmand.github.io/IntroRL/lectures/LNRL.pdf)
+- [ ] COMPM050/COMPGI13, 2015: Introduction to Reinforcement Learning | by [Prof. David Silver](https://www.davidsilver.uk/) | [Course Page](https://www.davidsilver.uk/teaching/) | [Playlist](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 
 
 ## Online Courses
