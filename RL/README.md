@@ -13,9 +13,11 @@
 ## Online Courses
 - [ ] [Hugging Face Deep RL course](https://huggingface.co/deep-rl-course/unit0/introduction)
 
-## Lecture Notes
+## Lecture Notes - Monographs
 - [ ] [Lecture Notes on Reinforcement Learning](https://amfarahmand.github.io/IntroRL/lectures/LNRL.pdf) by [Prof. Amir-massoud Farahmand](https://academic.sologen.net/)
 - [ ] [Reinforcement Learning Lectures Notes](https://people.cs.umass.edu/~bsilva/courses/CMPSCI_687/Fall2022/Lecture_Notes_v1.0_687_F22.pdf) by [Prof. Bruno C. da Silva](https://people.cs.umass.edu/~bsilva/) and [Prof. Philip S. Thomas](https://people.cs.umass.edu/~pthomas/)
+- [ ] [Reinforcement Learning: An Overview](https://arxiv.org/abs/2412.05265) by [Prof. Kevin P Murphy](https://www.cs.ubc.ca/~murphyk/)
+
 
 ## Talks
 
