@@ -1,13 +1,15 @@
 # Resources for Reinforcement Learning (RL)
 
 ## RL Researchers
-I am trying to maintain a [list of RL researchers](https://docs.google.com/spreadsheets/d/1vyiKcpKuroBg0tht0g-CsyENLb09TXTscXBOQOwqxoI/edit?usp=sharing) (faculty members, PhD students, and industry researchers) with their research focus and goals. If you think I have missed anyone please don't hesitate to get in touch through email or any other channels. There is no specific order and I'll update the list based on my explorattion.
+I am trying to maintain a [list of RL researchers](https://docs.google.com/spreadsheets/d/1vyiKcpKuroBg0tht0g-CsyENLb09TXTscXBOQOwqxoI/edit?usp=sharing) (faculty members, PhD students, and industry researchers) with their research focus and goals. If you think I have missed anyone please don't hesitate to get in touch through email or any other channels. There is no specific order and I'll update the list based on my exploration.
 
 
 ## Books
 - [ ] [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html)
 
 ## University Courses
+- [ ] CS234: Reinforcement Learning | by [Emma Brunskill](https://cs.stanford.edu/people/ebrun/index.html)
+    - [Winter 2025](https://web.stanford.edu/class/cs234/) | [Spring 2024](https://web.stanford.edu/class/cs234/CS234Spr2024/index.html), [Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX) | [Winter 2023](https://web.stanford.edu/class/cs234/CS234Spr2024/CS234Win2023/index.html)
 - [ ] CS 224R, Deep Reinforcement Learning | by [Prof. Chelsea Finn](https://ai.stanford.edu/~cbfinn/)
     - [Spring 2023](https://cs224r.stanford.edu/)
 - [ ] EC 700 A3, Introduction to Reinforcement Learning |  by [Prof. Alex Olshevsky](https://sites.bu.edu/aolshevsky/) 
