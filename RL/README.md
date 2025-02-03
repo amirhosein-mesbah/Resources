@@ -7,7 +7,7 @@ I am trying to maintain a [list of RL researchers](https://docs.google.com/sprea
 ## Books
 - [ ] [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html)
 
-## University Courses
+## University Courses [Introduction]
 - [ ] CS234: Reinforcement Learning | by [Emma Brunskill](https://cs.stanford.edu/people/ebrun/index.html)
     - [Winter 2025](https://web.stanford.edu/class/cs234/) | [Spring 2024](https://web.stanford.edu/class/cs234/CS234Spr2024/index.html), [Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX) | [Winter 2023](https://web.stanford.edu/class/cs234/CS234Spr2024/CS234Win2023/index.html)
 - [ ] CS 224R, Deep Reinforcement Learning | by [Prof. Chelsea Finn](https://ai.stanford.edu/~cbfinn/)
@@ -18,6 +18,10 @@ I am trying to maintain a [list of RL researchers](https://docs.google.com/sprea
     - [Spring 2021](https://amfarahmand.github.io/IntroRL/), [Playlist](https://www.youtube.com/playlist?list=PLCveiXxL2xNbiDq51a8iJwPRq2aO0ykrq), [Lecture Notes](https://amfarahmand.github.io/IntroRL/lectures/LNRL.pdf)
 - [ ] COMPM050/COMPGI13, Introduction to Reinforcement Learning | by [Prof. David Silver](https://www.davidsilver.uk/)
     - [2015](https://www.davidsilver.uk/teaching/), [Playlist](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+
+## Unversity Courses [Advanced]
+- [ ] CS332: Advanced Survey of Reinforcement Learning | by [Emma Brunskill](https://cs.stanford.edu/people/ebrun/index.html)
+    - [Autumn 2022](http://cs332.stanford.edu/#!index.md) | [Autumn 2018](https://cs332.stanford.edu/2018/#!index.md) | [Autumn 2017](http://web.stanford.edu/class/archive/cs/cs332/cs332.1182/#!index.md)
 
 
 ## Online Courses
