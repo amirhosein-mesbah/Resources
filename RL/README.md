@@ -1,11 +1,18 @@
 # Resources for Reinforcement Learning (RL)
 
 ## RL Researchers
-I am trying to maintain a [list of RL researchers](https://docs.google.com/spreadsheets/d/1vyiKcpKuroBg0tht0g-CsyENLb09TXTscXBOQOwqxoI/edit?usp=sharing) (faculty members, PhD students, and industry researchers) with their research focus and goals. If you think I have missed anyone please don't hesitate to get in touch through email or any other channels. There is no specific order and I'll update the list based on my exploration.
+I am trying to maintain a [list of RL researchers](https://docs.google.com/spreadsheets/d/1vyiKcpKuroBg0tht0g-CsyENLb09TXTscXBOQOwqxoI/edit?usp=sharing) (faculty members, PhD students, and industry researchers) with their research focus and goals. If you think I have missed anyone, please don't hesitate to get in touch through email or any other channels. There is no specific order, and I'll update the list based on my exploration.
 
 
 ## Books
 - [ ] [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html)
+
+## Lecture Notes - Monographs
+- [ ] [Lecture Notes on Reinforcement Learning](https://amfarahmand.github.io/IntroRL/lectures/LNRL.pdf) by [Prof. Amir-massoud Farahmand](https://academic.sologen.net/)
+- [ ] [Reinforcement Learning Lectures Notes](https://people.cs.umass.edu/~bsilva/courses/CMPSCI_687/Fall2022/Lecture_Notes_v1.0_687_F22.pdf) by [Dylan J. Foster](https://dylanfoster.net/) and [Prof. Alexander Rakhlin](https://www.mit.edu/~rakhlin/)
+- [ ] [Foundations of Reinforcement Learning and Interactive Decision Making](https://arxiv.org/abs/2312.16730) by [Prof. Bruno C. da Silva](https://people.cs.umass.edu/~bsilva/) and [Prof. Philip S. Thomas](https://people.cs.umass.edu/~pthomas/)
+- [ ] [Reinforcement Learning: An Overview](https://arxiv.org/abs/2412.05265) by [Prof. Kevin P Murphy](https://www.cs.ubc.ca/~murphyk/)
+
 
 ## University Courses [Introduction]
 - [ ] CS234: Reinforcement Learning | by [Emma Brunskill](https://cs.stanford.edu/people/ebrun/index.html)
@@ -19,7 +26,7 @@ I am trying to maintain a [list of RL researchers](https://docs.google.com/sprea
 - [ ] COMPM050/COMPGI13, Introduction to Reinforcement Learning | by [Prof. David Silver](https://www.davidsilver.uk/)
     - [2015](https://www.davidsilver.uk/teaching/), [Playlist](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 
-## Unversity Courses [Advanced]
+## University Courses [Advanced]
 - [ ] CS332: Advanced Survey of Reinforcement Learning | by [Emma Brunskill](https://cs.stanford.edu/people/ebrun/index.html)
     - [Autumn 2022](http://cs332.stanford.edu/#!index.md) | [Autumn 2018](https://cs332.stanford.edu/2018/#!index.md) | [Autumn 2017](http://web.stanford.edu/class/archive/cs/cs332/cs332.1182/#!index.md)
 
@@ -27,10 +34,6 @@ I am trying to maintain a [list of RL researchers](https://docs.google.com/sprea
 ## Online Courses
 - [ ] [Hugging Face Deep RL course](https://huggingface.co/deep-rl-course/unit0/introduction)
 
-## Lecture Notes - Monographs
-- [ ] [Lecture Notes on Reinforcement Learning](https://amfarahmand.github.io/IntroRL/lectures/LNRL.pdf) by [Prof. Amir-massoud Farahmand](https://academic.sologen.net/)
-- [ ] [Reinforcement Learning Lectures Notes](https://people.cs.umass.edu/~bsilva/courses/CMPSCI_687/Fall2022/Lecture_Notes_v1.0_687_F22.pdf) by [Prof. Bruno C. da Silva](https://people.cs.umass.edu/~bsilva/) and [Prof. Philip S. Thomas](https://people.cs.umass.edu/~pthomas/)
-- [ ] [Reinforcement Learning: An Overview](https://arxiv.org/abs/2412.05265) by [Prof. Kevin P Murphy](https://www.cs.ubc.ca/~murphyk/)
 
 ## Schools
 
