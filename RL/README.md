@@ -42,5 +42,12 @@ I am trying to maintain a [list of RL researchers](https://docs.google.com/sprea
 ## Talks
 
 
+## Topics
+
+### Model-Based RL
+- [ ] Model-Based Reinforcement Learning: Theory and Practice | by [Michael Janner](https://people.eecs.berkeley.edu/~janner/)
+    - [Link](https://bair.berkeley.edu/blog/2019/12/12/mbpo/), [In case images are missing](https://web.archive.org/web/20200929050759/https://bair.berkeley.edu/blog/2019/12/12/mbpo/)
+
+
 ## Papers
  
